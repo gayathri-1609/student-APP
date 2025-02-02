@@ -9,6 +9,7 @@ Tools and Technologies Used
 2)Spring Boot 3.3.2: For building a production-ready application with ease.
 3)Postman: For API testing and validation.
 4)MySQL: The relational database management system for storing student data.
+
 5)Swagger UI: For API documentation and testing.
 6)Hibernate: For Object-Relational Mapping (ORM) to interact with the database.
 7)Spring Tool Suite: The IDE used for development.
